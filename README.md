@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Edtech Application**
 
-- 🌱 I’m currently learning **MERN Stack, Web3, Salesforce**
+- 🌱 I’m currently learning **Spring Boot, Java, MERN Stack, Web3, Salesforce**
 
 - 👯 I’m looking to collaborate on **MERN Stack, Automation Testing, Salesforce Development**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN Stack, Web3, Salesforce**
 
-- 📫 How to reach me **ashivam547@gmail.com , 1ms20ee050@gmail.com**
+- 📫 How to reach me **ashivam547@gmail.com , anand.shivam547@gmailcom**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RBQEBfAsqQNi2_sY8XtLBvWgXmmXNUqj/view?usp=drive_link](https://drive.google.com/file/d/1RBQEBfAsqQNi2_sY8XtLBvWgXmmXNUqj/view?usp=drive_link)
 
