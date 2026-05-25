@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Anand</h1>
-<h3 align="center">A passionate techie looking forward to collaborate with frontend, backend and Web3 Technologies and Salesforce Development</h3>
+<h3 align="center">A passionate techie looking forward to collaborate with Software Testing, backend and Web3 Technologies and Salesforce Development</h3>
 
 - 🔭 I’m currently working on **Edtech Application**
 
